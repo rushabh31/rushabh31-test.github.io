@@ -12,6 +12,8 @@ common-js:
   - "/js/jquery-1.11.2.min.js"
   - "/js/bootstrap.min.js"
   - "/js/main.js"
+  - "/js/three.r95.min.js"
+  - "/js/vanta.waves.min.js"
 ---
 
 <!DOCTYPE html>
@@ -20,6 +22,12 @@ common-js:
   {% include head.html %}
 
   <body>
+    
+    <div class="mobile-js-hide">
+    <!-- particles.js container -->
+    <div id="particles-js"></div>
+    </div>
+    
     {% include gtm_body.html %}
     
     {% include nav.html %}
