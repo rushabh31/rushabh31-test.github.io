@@ -4,14 +4,14 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://aish-venkat.github.io"
+url: "http://rushabh31.github.io"
 baseurl: ""
 
 # Name of website
 title: Aishwarya Venkat
 
 # Short description of your site
-description: Welcome to Aishwarya Venkat's webpage!
+description: Welcome to Rushabh Patel's webpage!
 
 # -- Paginating blog page --- #
 paginate_path: "/blog/page:num/"
